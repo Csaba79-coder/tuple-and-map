@@ -1,0 +1,10 @@
+process1
+,0A,1B,3C
+3T,R1,L3,L3
+6T,R3,R1,R3
+1V,R3,R3,R3
+process2
+,0D,1E,3F
+3T,R2,R2,R3
+6T,R2,R3,R3
+1X,R3,R3,R3
